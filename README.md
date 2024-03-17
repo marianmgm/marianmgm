@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there,👋 I am Marian 
+#### I am a Junior Java Developer
+- 🔭 I’m currently working on <a href="https://github.com/doraad/WoofMatch">WoofMatch</a>
+ 
 <!--
 **marianmgm/marianmgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
