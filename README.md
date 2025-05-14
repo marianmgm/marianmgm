@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marianmgm&label=Profile%20views&color=0e75b6&style=flat" alt="marianmgm" /> </p>
 
-- 🔭 I’m currently working on [Foreign Exchange Application](https://github.com/marianmgm/foreign-exchange)
+- 🔭 I’m currently working on [Virtual Teacher](https://github.com/VirtualTeacherProject/Virtual_Teacher_App)
 -  🌱 I’m currently learning Java Script, React and Docker
 
 - 📫 How to reach me **marianmgm@yahoo.com**
